@@ -1,1 +1,1 @@
-include ':singletonPattern', ':builderPattern', ':factorypattern'
+include ':singletonPattern', ':builderPattern', ':factorypattern', ':proxypattern', ':decoratepattern'
