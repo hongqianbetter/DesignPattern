@@ -28,5 +28,6 @@ public class UserDaoProxy implements IuserDao {
     @Override
     public void save() {   //代理和装饰这里不同其他都一样
         userDao.save(); //执行目标对象的方法
+
     }
 }
