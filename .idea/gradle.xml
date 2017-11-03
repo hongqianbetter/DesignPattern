@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapterpattern" />
             <option value="$PROJECT_DIR$/builderPattern" />
             <option value="$PROJECT_DIR$/decoratepattern" />
             <option value="$PROJECT_DIR$/factorypattern" />
